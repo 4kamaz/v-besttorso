@@ -1,18 +1,3 @@
-# v-besttorso
-
-This resource aims to help people find proper torsos for a freemode character top item (component ID 11). So this ugly clipping doesn't happen:
-
-![Disgusting!](https://raw.githubusercontent.com/root-cause/v-besttorso/master/ClippingExample.jpg)
-
-This resource only provides "the best" torso for a specified top item, it will not help with:
-
-* Gloves
-* Undershirts (component ID 8)
-
-Some tops don't have torso data so they'll just return -1, a better explanation can be found on the README file of [v-clothingnames](https://github.com/root-cause/v-clothingnames).
-
-Visit https://wiki.rage.mp/index.php?title=Clothes for preview images of tops and torsos.
-
 # JS Example
 
 ```js
